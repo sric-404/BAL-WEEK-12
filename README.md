@@ -2,6 +2,8 @@
 
 # Diabetes Health Analysis Dashboard
 
+https://public.tableau.com/app/profile/sri.chandan8319/viz/BALWEEK12/Dashboard1#1
+
 ## Objective
 To analyze the diabetes healthcare dataset using Tableau Public and identify meaningful patterns and relationships associated with diabetes outcomes.
 
